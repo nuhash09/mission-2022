@@ -40,23 +40,25 @@ h1 {
 .below-top-image {
   width: 360px;
   height: 376px;
-  border: 1px solid black;
-  margin-left: 5px;
-  margin-right: 5px;
+  margin-left: 8px;
+  margin-right: 8px;
   border-radius: 15px;
 }
-.one img {
+.below-top-image img {
   width: 141px;
   height: 141px;
 }
-.two img {
-  width: 141px;
-  height: 141px;
+
+#one {
+  background-color: #d0f4fa;
 }
-.three img {
-  width: 141px;
-  height: 141px;
+#two {
+  background-color: #ff5959;
 }
+#three {
+  background-color: #fff4d6;
+}
+
 .middle-header {
   text-align: center;
 }
